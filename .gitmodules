@@ -1,0 +1,4 @@
+[submodule "git_2"]
+    path = git_2
+    url = https://github.com/adeveloper79/intellipaat_asmt_sub
+
